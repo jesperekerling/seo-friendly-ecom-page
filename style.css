@@ -1,3 +1,10 @@
+body {
+    padding: 3rem;
+}
 img {
     width: 400px;
+}
+
+.product__description span {
+    font-weight: bold;
 }
